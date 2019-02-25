@@ -1,6 +1,5 @@
 package com.graphaware.neo4j.triggers.domain;
 
-import com.graphaware.neo4j.triggers.definition.Definition;
 import org.springframework.expression.Expression;
 import org.springframework.expression.spel.standard.SpelExpressionParser;
 
